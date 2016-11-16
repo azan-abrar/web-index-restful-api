@@ -1,4 +1,4 @@
-# README
+# web-index-restful-api README
 
 The API have two endpoints:
 
@@ -15,4 +15,3 @@ The json output is customized to display desired columns in the api endpoint out
 
 Test cases has been added using rspec.
 
-# web-index-restful-api
